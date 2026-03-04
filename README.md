@@ -23,7 +23,8 @@ Botão para limpar os campos
 
 
 📊 Tabela de Classificação (OMS)
-ClassificaçãoFaixa do IMCCorAbaixo do Peso< 18.5🟡 AmareloPeso Normal18.5 – 24.9🟢 VerdeSobrepeso25.0 – 29.9🟠 Amarelo EscuroObesidade Grau I30.0 – 34.9🟠 LaranjaObesidade Grau II35.0 – 39.9🔴 VermelhoObesidade Grau III≥ 40.0🔴 Vermelho Escuro
+ClassificaçãoFaixa do IMC
+CorAbaixo do Peso< 18.5🟡 AmareloPeso Normal18.5 – 24.9🟢 VerdeSobrepeso25.0 – 29.9🟠 Amarelo EscuroObesidade Grau I30.0 – 34.9🟠 LaranjaObesidade Grau II35.0 – 39.9🔴 VermelhoObesidade Grau III≥ 40.0🔴 Vermelho Escuro
 
 🛠️ Tecnologias
 
@@ -37,4 +38,3 @@ Feito por Felipe — Fatec
 
 
 
-(https://snack.expo.dev/@felipe_ribeiro_286/calculadora-imc-atividade-1)
